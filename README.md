@@ -8,8 +8,6 @@ My name is Cynthia Aguero I am currently a third year at Rutgers University, pur
 - 📫 How to reach me: Send me a message on LinkedIn: https://www.linkedin.com/in/cynthiaaguero/
 - ⚡ Fun fact: I am learning Japanese and Spanish
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cynthiaaguero&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-![Cynthia's GitHub stats](https://github-readme-stats.vercel.app/api?username=cynthiaaguero&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cynthiaaguero&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) ![Cynthia's GitHub stats](https://github-readme-stats.vercel.app/api?username=cynthiaaguero&show_icons=true&theme=dracula)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cynthiaaguero&theme=dracula)](https://git.io/streak-stats)
