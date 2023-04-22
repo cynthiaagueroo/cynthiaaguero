@@ -5,7 +5,5 @@ My name is Cynthia Aguero I am currently a third year at Rutgers University, pur
 - ✧˚ · . I’m currently working on completing a Computer Architecture Course and creating a music reccomendation website
 - ✧˚ · . I’m currently learning HTML, CSS, JavaScript
 - ✧˚ · . I’m looking to collaborate on projects and hackathons
-- ✧˚ · . How to reach me: Send me a message on LinkedIn: https://www.linkedin.com/in/cynthiaaguero/
-- ✧˚ · . Fun fact: I am learning Japanese and Spanish
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cynthiaaguero&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
