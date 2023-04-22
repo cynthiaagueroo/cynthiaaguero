@@ -1,4 +1,4 @@
-### Hiya✧˚ · .
+### Hi!
 
 My name is Cynthia Aguero I am currently a third year at Rutgers University, pursuing a degree in Computer Science with a specialization in Artificial Intelligence and Cognitive Science.
 
